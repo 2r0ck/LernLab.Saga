@@ -11,8 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LernLab.Saga.DocumentRegist
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DockerSrc", "DockerSrc", "{AD62B8B0-AE74-4087-B1A9-D3DEA06869AD}"
 	ProjectSection(SolutionItems) = preProject
-		..\masstransit-saga-implementation\DotnetCore.Saga.Sample\docker-compose.yml = ..\masstransit-saga-implementation\DotnetCore.Saga.Sample\docker-compose.yml
-		..\masstransit-saga-implementation\DotnetCore.Saga.Sample\Dockerfile = ..\masstransit-saga-implementation\DotnetCore.Saga.Sample\Dockerfile
+		docker-compose.yml = docker-compose.yml
+		Dockerfile = Dockerfile
 	EndProjectSection
 EndProject
 Global
